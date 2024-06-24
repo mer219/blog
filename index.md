@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: Stories from the backend
 ---
-
-content coming soon
